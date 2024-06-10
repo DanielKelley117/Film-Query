@@ -1,0 +1,5002 @@
+[
+  {
+    "Rank": 1,
+    "Release": "Top Gun: Maverick",
+    "max_th": 4751,
+    "Opening": 126707459,
+    "perc_tot_gr": 17.6,
+    "open_th": 4735,
+    "Open": "2022-05-27",
+    "Close": "2022-12-16",
+    "Distributor": "Paramount Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 718732821
+      },
+      {
+        "type": "int_gross",
+        "dollars": 770000000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 1488732821
+      }
+    ]
+  },
+  {
+    "Rank": 2,
+    "Release": "Avatar: The Way of Water",
+    "max_th": 4340,
+    "Opening": 134100226,
+    "perc_tot_gr": 21.1,
+    "open_th": 4202,
+    "Open": "2022-12-16",
+    "Close": "",
+    "Distributor": "20th Century Studios",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 636955746
+      },
+      {
+        "type": "int_gross",
+        "dollars": 1539273359
+      },
+      {
+        "type": "world_gross",
+        "dollars": 2176229105
+      }
+    ]
+  },
+  {
+    "Rank": 3,
+    "Release": "Black Panther: Wakanda Forever",
+    "max_th": 4396,
+    "Opening": 181339761,
+    "perc_tot_gr": 40,
+    "open_th": 4396,
+    "Open": "2022-11-11",
+    "Close": "",
+    "Distributor": "Walt Disney Studios Motion Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 453474324
+      },
+      {
+        "type": "int_gross",
+        "dollars": 389276658
+      },
+      {
+        "type": "world_gross",
+        "dollars": 842750982
+      }
+    ]
+  },
+  {
+    "Rank": 4,
+    "Release": "Doctor Strange in the Multiverse of Madness",
+    "max_th": 4534,
+    "Opening": 187420998,
+    "perc_tot_gr": 45.6,
+    "open_th": 4534,
+    "Open": "2022-05-06",
+    "Close": "",
+    "Distributor": "Walt Disney Studios Motion Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 411331607
+      },
+      {
+        "type": "int_gross",
+        "dollars": 544444197
+      },
+      {
+        "type": "world_gross",
+        "dollars": 955775804
+      }
+    ]
+  },
+  {
+    "Rank": 5,
+    "Release": "Jurassic World: Dominion",
+    "max_th": 4697,
+    "Opening": 145075625,
+    "perc_tot_gr": 38.5,
+    "open_th": 4676,
+    "Open": "2022-06-10",
+    "Close": "2022-09-23",
+    "Distributor": "Universal Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 376851080
+      },
+      {
+        "type": "int_gross",
+        "dollars": 625127000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 1001978080
+      }
+    ]
+  },
+  {
+    "Rank": 6,
+    "Release": "Minions: The Rise of Gru",
+    "max_th": 4427,
+    "Opening": 107010140,
+    "perc_tot_gr": 28.9,
+    "open_th": 4391,
+    "Open": "2022-07-01",
+    "Close": "",
+    "Distributor": "Universal Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 369695210
+      },
+      {
+        "type": "int_gross",
+        "dollars": 569933000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 939628210
+      }
+    ]
+  },
+  {
+    "Rank": 7,
+    "Release": "The Batman",
+    "max_th": 4417,
+    "Opening": 134008624,
+    "perc_tot_gr": 36.3,
+    "open_th": 4417,
+    "Open": "2022-03-04",
+    "Close": "",
+    "Distributor": "Warner Bros.",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 369345583
+      },
+      {
+        "type": "int_gross",
+        "dollars": 401600000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 770945583
+      }
+    ]
+  },
+  {
+    "Rank": 8,
+    "Release": "Thor: Love and Thunder",
+    "max_th": 4375,
+    "Opening": 144165107,
+    "perc_tot_gr": 42,
+    "open_th": 4375,
+    "Open": "2022-07-08",
+    "Close": "2022-10-14",
+    "Distributor": "Walt Disney Studios Motion Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 343256830
+      },
+      {
+        "type": "int_gross",
+        "dollars": 417671251
+      },
+      {
+        "type": "world_gross",
+        "dollars": 760928081
+      }
+    ]
+  },
+  {
+    "Rank": 9,
+    "Release": "Sonic the Hedgehog 2",
+    "max_th": 4258,
+    "Opening": 72105176,
+    "perc_tot_gr": 37.8,
+    "open_th": 4234,
+    "Open": "2022-04-08",
+    "Close": "2022-07-08",
+    "Distributor": "Paramount Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 190872904
+      },
+      {
+        "type": "int_gross",
+        "dollars": 211783942
+      },
+      {
+        "type": "world_gross",
+        "dollars": 402656846
+      }
+    ]
+  },
+  {
+    "Rank": 10,
+    "Release": "Black Adam",
+    "max_th": 4402,
+    "Opening": 67004323,
+    "perc_tot_gr": 39.8,
+    "open_th": 4402,
+    "Open": "2022-10-21",
+    "Close": "2022-01-13",
+    "Distributor": "Warner Bros.",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 168152111
+      },
+      {
+        "type": "int_gross",
+        "dollars": 224800000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 392952111
+      }
+    ]
+  },
+  {
+    "Rank": 11,
+    "Release": "Puss in Boots: The Last Wish",
+    "max_th": 4121,
+    "Opening": 12429515,
+    "perc_tot_gr": 8.2,
+    "open_th": 4099,
+    "Open": "2022-12-21",
+    "Close": "",
+    "Distributor": "Universal Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 151221725
+      },
+      {
+        "type": "int_gross",
+        "dollars": 217884000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 369105725
+      }
+    ]
+  },
+  {
+    "Rank": 12,
+    "Release": "Elvis",
+    "max_th": 3932,
+    "Opening": 31211579,
+    "perc_tot_gr": 20.7,
+    "open_th": 3906,
+    "Open": "2022-06-24",
+    "Close": "2022-10-14",
+    "Distributor": "Warner Bros.",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 151040048
+      },
+      {
+        "type": "int_gross",
+        "dollars": 136300000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 287340048
+      }
+    ]
+  },
+  {
+    "Rank": 13,
+    "Release": "Uncharted",
+    "max_th": 4275,
+    "Opening": 44010155,
+    "perc_tot_gr": 29.6,
+    "open_th": 4275,
+    "Open": "2022-02-18",
+    "Close": "",
+    "Distributor": "Sony Pictures Entertainment (SPE)",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 148648820
+      },
+      {
+        "type": "int_gross",
+        "dollars": 253100000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 401748820
+      }
+    ]
+  },
+  {
+    "Rank": 14,
+    "Release": "Nope",
+    "max_th": 3807,
+    "Opening": 44366910,
+    "perc_tot_gr": 36,
+    "open_th": 3785,
+    "Open": "2022-07-22",
+    "Close": "2022-10-06",
+    "Distributor": "Universal Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 123277080
+      },
+      {
+        "type": "int_gross",
+        "dollars": 47958512
+      },
+      {
+        "type": "world_gross",
+        "dollars": 171235592
+      }
+    ]
+  },
+  {
+    "Rank": 15,
+    "Release": "Lightyear",
+    "max_th": 4255,
+    "Opening": 50577961,
+    "perc_tot_gr": 42.8,
+    "open_th": 4255,
+    "Open": "2022-06-17",
+    "Close": "2022-09-09",
+    "Distributor": "Walt Disney Studios Motion Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 118307188
+      },
+      {
+        "type": "int_gross",
+        "dollars": 108118232
+      },
+      {
+        "type": "world_gross",
+        "dollars": 226425420
+      }
+    ]
+  },
+  {
+    "Rank": 16,
+    "Release": "Smile",
+    "max_th": 3659,
+    "Opening": 22609925,
+    "perc_tot_gr": 21.3,
+    "open_th": 3645,
+    "Open": "2022-09-30",
+    "Close": "2022-12-16",
+    "Distributor": "Paramount Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 105935048
+      },
+      {
+        "type": "int_gross",
+        "dollars": 110200000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 216135048
+      }
+    ]
+  },
+  {
+    "Rank": 17,
+    "Release": "The Lost City",
+    "max_th": 4283,
+    "Opening": 30453269,
+    "perc_tot_gr": 28.9,
+    "open_th": 4253,
+    "Open": "2022-03-25",
+    "Close": "2022-06-23",
+    "Distributor": "Paramount Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 105344029
+      },
+      {
+        "type": "int_gross",
+        "dollars": 85500000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 190844029
+      }
+    ]
+  },
+  {
+    "Rank": 18,
+    "Release": "Bullet Train",
+    "max_th": 4357,
+    "Opening": 30030156,
+    "perc_tot_gr": 29.1,
+    "open_th": 4357,
+    "Open": "2022-08-05",
+    "Close": "",
+    "Distributor": "Sony Pictures Entertainment (SPE)",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 103368602
+      },
+      {
+        "type": "int_gross",
+        "dollars": 135900000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 239268602
+      }
+    ]
+  },
+  {
+    "Rank": 19,
+    "Release": "The Bad Guys",
+    "max_th": 4042,
+    "Opening": 23950245,
+    "perc_tot_gr": 24.6,
+    "open_th": 4008,
+    "Open": "2022-04-22",
+    "Close": "2022-11-17",
+    "Distributor": "Universal Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 97233630
+      },
+      {
+        "type": "int_gross",
+        "dollars": 152928648
+      },
+      {
+        "type": "world_gross",
+        "dollars": 250162278
+      }
+    ]
+  },
+  {
+    "Rank": 20,
+    "Release": "Fantastic Beasts: The Secrets of Dumbledore",
+    "max_th": 4245,
+    "Opening": 42151256,
+    "perc_tot_gr": 44,
+    "open_th": 4208,
+    "Open": "2022-04-15",
+    "Close": "2022-07-01",
+    "Distributor": "Warner Bros.",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 95850844
+      },
+      {
+        "type": "int_gross",
+        "dollars": 311100000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 406950844
+      }
+    ]
+  },
+  {
+    "Rank": 21,
+    "Release": "DC League of Super-Pets",
+    "max_th": 4332,
+    "Opening": 23003441,
+    "perc_tot_gr": 24.6,
+    "open_th": 4314,
+    "Open": "2022-07-29",
+    "Close": "",
+    "Distributor": "Warner Bros.",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 93657117
+      },
+      {
+        "type": "int_gross",
+        "dollars": 113700000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 207357117
+      }
+    ]
+  },
+  {
+    "Rank": 22,
+    "Release": "Where the Crawdads Sing",
+    "max_th": 3650,
+    "Opening": 17253227,
+    "perc_tot_gr": 19.1,
+    "open_th": 3650,
+    "Open": "2022-07-15",
+    "Close": "2022-10-20",
+    "Distributor": "Sony Pictures Entertainment (SPE)",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 90230760
+      },
+      {
+        "type": "int_gross",
+        "dollars": 50000000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 140230760
+      }
+    ]
+  },
+  {
+    "Rank": 23,
+    "Release": "The Black Phone",
+    "max_th": 3156,
+    "Opening": 23633220,
+    "perc_tot_gr": 26.2,
+    "open_th": 3150,
+    "Open": "2022-06-24",
+    "Close": "2022-09-23",
+    "Distributor": "Universal Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 90123230
+      },
+      {
+        "type": "int_gross",
+        "dollars": 71317512
+      },
+      {
+        "type": "world_gross",
+        "dollars": 161440742
+      }
+    ]
+  },
+  {
+    "Rank": 24,
+    "Release": "Scream",
+    "max_th": 3666,
+    "Opening": 30018805,
+    "perc_tot_gr": 36.8,
+    "open_th": 3664,
+    "Open": "2022-01-14",
+    "Close": "",
+    "Distributor": "Paramount Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 81641405
+      },
+      {
+        "type": "int_gross",
+        "dollars": 58400000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 140041405
+      }
+    ]
+  },
+  {
+    "Rank": 25,
+    "Release": "Morbius",
+    "max_th": 4268,
+    "Opening": 39005895,
+    "perc_tot_gr": 52.8,
+    "open_th": 4268,
+    "Open": "2022-04-01",
+    "Close": "",
+    "Distributor": "Columbia Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 73865530
+      },
+      {
+        "type": "int_gross",
+        "dollars": 93595431
+      },
+      {
+        "type": "world_gross",
+        "dollars": 167460961
+      }
+    ]
+  },
+  {
+    "Rank": 26,
+    "Release": "Everything Everywhere All at Once",
+    "max_th": 2220,
+    "Opening": 501305,
+    "perc_tot_gr": 0.7,
+    "open_th": 10,
+    "Open": "2022-03-25",
+    "Close": "",
+    "Distributor": "A24",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 72015067
+      },
+      {
+        "type": "int_gross",
+        "dollars": 34208930
+      },
+      {
+        "type": "world_gross",
+        "dollars": 106223997
+      }
+    ]
+  },
+  {
+    "Rank": 27,
+    "Release": "Ticket to Paradise",
+    "max_th": 4066,
+    "Opening": 16509095,
+    "perc_tot_gr": 24.2,
+    "open_th": 3543,
+    "Open": "2022-10-21",
+    "Close": "",
+    "Distributor": "Universal Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 68275985
+      },
+      {
+        "type": "int_gross",
+        "dollars": 99818878
+      },
+      {
+        "type": "world_gross",
+        "dollars": 168094863
+      }
+    ]
+  },
+  {
+    "Rank": 28,
+    "Release": "The Woman King",
+    "max_th": 3765,
+    "Opening": 19051442,
+    "perc_tot_gr": 28.3,
+    "open_th": 3765,
+    "Open": "2022-09-16",
+    "Close": "",
+    "Distributor": "TriStar Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 67328130
+      },
+      {
+        "type": "int_gross",
+        "dollars": 25100000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 92428130
+      }
+    ]
+  },
+  {
+    "Rank": 29,
+    "Release": "Halloween Ends",
+    "max_th": 3901,
+    "Opening": 40050355,
+    "perc_tot_gr": 62.5,
+    "open_th": 3901,
+    "Open": "2022-10-14",
+    "Close": "2022-11-17",
+    "Distributor": "Universal Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 64079860
+      },
+      {
+        "type": "int_gross",
+        "dollars": 40107000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 104186860
+      }
+    ]
+  },
+  {
+    "Rank": 30,
+    "Release": "Dog",
+    "max_th": 3827,
+    "Opening": 14883928,
+    "perc_tot_gr": 24.1,
+    "open_th": 3677,
+    "Open": "2022-02-18",
+    "Close": "",
+    "Distributor": "United Artists Releasing",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 61778069
+      },
+      {
+        "type": "int_gross",
+        "dollars": 22996174
+      },
+      {
+        "type": "world_gross",
+        "dollars": 84774243
+      }
+    ]
+  },
+  {
+    "Rank": 31,
+    "Release": "Jackass Forever",
+    "max_th": 3653,
+    "Opening": 23154388,
+    "perc_tot_gr": 40.1,
+    "open_th": 3604,
+    "Open": "2022-02-04",
+    "Close": "",
+    "Distributor": "Paramount Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 57743451
+      },
+      {
+        "type": "int_gross",
+        "dollars": 22740710
+      },
+      {
+        "type": "world_gross",
+        "dollars": 80484161
+      }
+    ]
+  },
+  {
+    "Rank": 32,
+    "Release": "A Man Called Otto",
+    "max_th": 3957,
+    "Opening": 56257,
+    "perc_tot_gr": 0.1,
+    "open_th": 4,
+    "Open": "2022-12-30",
+    "Close": "",
+    "Distributor": "Columbia Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 53076006
+      },
+      {
+        "type": "int_gross",
+        "dollars": 30400000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 83476006
+      }
+    ]
+  },
+  {
+    "Rank": 33,
+    "Release": "Violent Night",
+    "max_th": 3723,
+    "Opening": 13450240,
+    "perc_tot_gr": 27,
+    "open_th": 3682,
+    "Open": "2022-12-02",
+    "Close": "",
+    "Distributor": "Universal Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 49761525
+      },
+      {
+        "type": "int_gross",
+        "dollars": 25947000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 75708525
+      }
+    ]
+  },
+  {
+    "Rank": 34,
+    "Release": "Lyle, Lyle, Crocodile",
+    "max_th": 4350,
+    "Opening": 11401182,
+    "perc_tot_gr": 24.3,
+    "open_th": 4350,
+    "Open": "2022-10-07",
+    "Close": "",
+    "Distributor": "Sony Pictures Entertainment (SPE)",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 46888441
+      },
+      {
+        "type": "int_gross",
+        "dollars": 57200000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 104088441
+      }
+    ]
+  },
+  {
+    "Rank": 35,
+    "Release": "Death on the Nile",
+    "max_th": 3420,
+    "Opening": 12891123,
+    "perc_tot_gr": 28.3,
+    "open_th": 3280,
+    "Open": "2022-02-11",
+    "Close": "",
+    "Distributor": "20th Century Studios",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 45630104
+      },
+      {
+        "type": "int_gross",
+        "dollars": 91677131
+      },
+      {
+        "type": "world_gross",
+        "dollars": 137307235
+      }
+    ]
+  },
+  {
+    "Rank": 36,
+    "Release": "Don't Worry Darling",
+    "max_th": 4121,
+    "Opening": 19353213,
+    "perc_tot_gr": 42.7,
+    "open_th": 4113,
+    "Open": "2022-09-23",
+    "Close": "",
+    "Distributor": "Warner Bros.",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 45309403
+      },
+      {
+        "type": "int_gross",
+        "dollars": 42100000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 87409403
+      }
+    ]
+  },
+  {
+    "Rank": 37,
+    "Release": "Downton Abbey: A New Era",
+    "max_th": 3830,
+    "Opening": 16000495,
+    "perc_tot_gr": 36.2,
+    "open_th": 3820,
+    "Open": "2022-05-20",
+    "Close": "",
+    "Distributor": "Focus Features",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 44141550
+      },
+      {
+        "type": "int_gross",
+        "dollars": 48459987
+      },
+      {
+        "type": "world_gross",
+        "dollars": 92601537
+      }
+    ]
+  },
+  {
+    "Rank": 38,
+    "Release": "Barbarian",
+    "max_th": 2890,
+    "Opening": 10543948,
+    "perc_tot_gr": 25.8,
+    "open_th": 2340,
+    "Open": "2022-09-09",
+    "Close": "",
+    "Distributor": "20th Century Studios",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 40842944
+      },
+      {
+        "type": "int_gross",
+        "dollars": 4509393
+      },
+      {
+        "type": "world_gross",
+        "dollars": 45352337
+      }
+    ]
+  },
+  {
+    "Rank": 39,
+    "Release": "The Menu",
+    "max_th": 3228,
+    "Opening": 9004957,
+    "perc_tot_gr": 23.4,
+    "open_th": 3211,
+    "Open": "2022-11-18",
+    "Close": "",
+    "Distributor": "Searchlight Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 38501125
+      },
+      {
+        "type": "int_gross",
+        "dollars": 41015668
+      },
+      {
+        "type": "world_gross",
+        "dollars": 79516793
+      }
+    ]
+  },
+  {
+    "Rank": 40,
+    "Release": "Dragon Ball Super: Super Hero",
+    "max_th": 3018,
+    "Opening": 21126919,
+    "perc_tot_gr": 55.4,
+    "open_th": 3018,
+    "Open": "2022-08-19",
+    "Close": "",
+    "Distributor": "Crunchyroll",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 38112140
+      },
+      {
+        "type": "int_gross",
+        "dollars": 48450000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 86562140
+      }
+    ]
+  },
+  {
+    "Rank": 41,
+    "Release": "Strange World",
+    "max_th": 4174,
+    "Opening": 12151384,
+    "perc_tot_gr": 32,
+    "open_th": 4174,
+    "Open": "2022-11-23",
+    "Close": "",
+    "Distributor": "Walt Disney Studios Motion Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 37968963
+      },
+      {
+        "type": "int_gross",
+        "dollars": 35652677
+      },
+      {
+        "type": "world_gross",
+        "dollars": 73621640
+      }
+    ]
+  },
+  {
+    "Rank": 42,
+    "Release": "Jujutsu Kaisen 0: The Movie",
+    "max_th": 2418,
+    "Opening": 18009921,
+    "perc_tot_gr": 52.1,
+    "open_th": 2286,
+    "Open": "2022-03-18",
+    "Close": "",
+    "Distributor": "Crunchyroll",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 34542754
+      },
+      {
+        "type": "int_gross",
+        "dollars": 132202507
+      },
+      {
+        "type": "world_gross",
+        "dollars": 166745261
+      }
+    ]
+  },
+  {
+    "Rank": 43,
+    "Release": "The Northman",
+    "max_th": 3284,
+    "Opening": 12290800,
+    "perc_tot_gr": 35.9,
+    "open_th": 3234,
+    "Open": "2022-04-22",
+    "Close": "",
+    "Distributor": "Focus Features",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 34233110
+      },
+      {
+        "type": "int_gross",
+        "dollars": 35400000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 69633110
+      }
+    ]
+  },
+  {
+    "Rank": 44,
+    "Release": "The Bob's Burgers Movie",
+    "max_th": 3425,
+    "Opening": 12416819,
+    "perc_tot_gr": 38.9,
+    "open_th": 3425,
+    "Open": "2022-05-27",
+    "Close": "",
+    "Distributor": "20th Century Studios",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 31933830
+      },
+      {
+        "type": "int_gross",
+        "dollars": 2214920
+      },
+      {
+        "type": "world_gross",
+        "dollars": 34148750
+      }
+    ]
+  },
+  {
+    "Rank": 45,
+    "Release": "Beast",
+    "max_th": 3754,
+    "Opening": 11575855,
+    "perc_tot_gr": 36.3,
+    "open_th": 3743,
+    "Open": "2022-08-19",
+    "Close": "2022-10-14",
+    "Distributor": "Universal Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 31846530
+      },
+      {
+        "type": "int_gross",
+        "dollars": 27249279
+      },
+      {
+        "type": "world_gross",
+        "dollars": 59095809
+      }
+    ]
+  },
+  {
+    "Rank": 46,
+    "Release": "The Invitation",
+    "max_th": 3117,
+    "Opening": 6805468,
+    "perc_tot_gr": 27.1,
+    "open_th": 3114,
+    "Open": "2022-08-26",
+    "Close": "2022-10-20",
+    "Distributor": "Sony Pictures Entertainment (SPE)",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 25100080
+      },
+      {
+        "type": "int_gross",
+        "dollars": 8600000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 33700080
+      }
+    ]
+  },
+  {
+    "Rank": 47,
+    "Release": "Avatar2022 Re-release",
+    "max_th": 2040,
+    "Opening": 10529576,
+    "perc_tot_gr": 42.6,
+    "open_th": 1860,
+    "Open": "2022-09-23",
+    "Close": "2022-10-14",
+    "Distributor": "Walt Disney Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 24714024
+      },
+      {
+        "type": "int_gross",
+        "dollars": 51298893
+      },
+      {
+        "type": "world_gross",
+        "dollars": 76012917
+      }
+    ]
+  },
+  {
+    "Rank": 48,
+    "Release": "Whitney Houston: I Wanna Dance with Somebody",
+    "max_th": 3625,
+    "Opening": 4700450,
+    "perc_tot_gr": 19.9,
+    "open_th": 3625,
+    "Open": "2022-12-23",
+    "Close": "",
+    "Distributor": "TriStar Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 23571483
+      },
+      {
+        "type": "int_gross",
+        "dollars": 33000000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 56571483
+      }
+    ]
+  },
+  {
+    "Rank": 49,
+    "Release": "Ambulance",
+    "max_th": 3412,
+    "Opening": 8699630,
+    "perc_tot_gr": 38.2,
+    "open_th": 3412,
+    "Open": "2022-04-08",
+    "Close": "",
+    "Distributor": "Universal Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 22781115
+      },
+      {
+        "type": "int_gross",
+        "dollars": 29519869
+      },
+      {
+        "type": "world_gross",
+        "dollars": 52300984
+      }
+    ]
+  },
+  {
+    "Rank": 50,
+    "Release": "Marry Me",
+    "max_th": 3643,
+    "Opening": 7949980,
+    "perc_tot_gr": 35.4,
+    "open_th": 3642,
+    "Open": "2022-02-11",
+    "Close": "",
+    "Distributor": "Universal Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 22438180
+      },
+      {
+        "type": "int_gross",
+        "dollars": 29519869
+      },
+      {
+        "type": "world_gross",
+        "dollars": 52300984
+      }
+    ]
+  },
+  {
+    "Rank": 51,
+    "Release": "Father Stu",
+    "max_th": 2705,
+    "Opening": 5402642,
+    "perc_tot_gr": 25.9,
+    "open_th": 2705,
+    "Open": "2022-04-13",
+    "Close": "",
+    "Distributor": "Sony Pictures Entertainment (SPE)",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 20884796
+      },
+      {
+        "type": "int_gross",
+        "dollars": 28019880
+      },
+      {
+        "type": "world_gross",
+        "dollars": 50458060
+      }
+    ]
+  },
+  {
+    "Rank": 52,
+    "Release": "Devotion",
+    "max_th": 3458,
+    "Opening": 5902803,
+    "perc_tot_gr": 28.8,
+    "open_th": 3405,
+    "Open": "2022-11-23",
+    "Close": "",
+    "Distributor": "Columbia Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 20511938
+      },
+      {
+        "type": "int_gross",
+        "dollars": 707583
+      },
+      {
+        "type": "world_gross",
+        "dollars": 21592379
+      }
+    ]
+  },
+  {
+    "Rank": 53,
+    "Release": "The Unbearable Weight of Massive Talent",
+    "max_th": 3036,
+    "Opening": 7131703,
+    "perc_tot_gr": 35.1,
+    "open_th": 3036,
+    "Open": "2022-04-22",
+    "Close": "2022-06-10",
+    "Distributor": "Lionsgate",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 20300157
+      },
+      {
+        "type": "int_gross",
+        "dollars": 1161367
+      },
+      {
+        "type": "world_gross",
+        "dollars": 21673305
+      }
+    ]
+  },
+  {
+    "Rank": 54,
+    "Release": "Prey for the Devil",
+    "max_th": 2980,
+    "Opening": 7185126,
+    "perc_tot_gr": 36.3,
+    "open_th": 2980,
+    "Open": "2022-10-28",
+    "Close": "",
+    "Distributor": "Lionsgate",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 19802293
+      },
+      {
+        "type": "int_gross",
+        "dollars": 8816163
+      },
+      {
+        "type": "world_gross",
+        "dollars": 29116320
+      }
+    ]
+  },
+  {
+    "Rank": 55,
+    "Release": "Moonfall",
+    "max_th": 3446,
+    "Opening": 9868997,
+    "perc_tot_gr": 51.8,
+    "open_th": 3446,
+    "Open": "2022-02-04",
+    "Close": "",
+    "Distributor": "Lionsgate",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 19060660
+      },
+      {
+        "type": "int_gross",
+        "dollars": 24841861
+      },
+      {
+        "type": "world_gross",
+        "dollars": 44644154
+      }
+    ]
+  },
+  {
+    "Rank": 56,
+    "Release": "Paws of Fury: The Legend of Hank",
+    "max_th": 3481,
+    "Opening": 6321423,
+    "perc_tot_gr": 35.5,
+    "open_th": 3475,
+    "Open": "2022-07-15",
+    "Close": "2022-08-19",
+    "Distributor": "Paramount Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 17811382
+      },
+      {
+        "type": "int_gross",
+        "dollars": 48234703
+      },
+      {
+        "type": "world_gross",
+        "dollars": 67295363
+      }
+    ]
+  },
+  {
+    "Rank": 57,
+    "Release": "The Fabelmans",
+    "max_th": 1962,
+    "Opening": 161579,
+    "perc_tot_gr": 1,
+    "open_th": 4,
+    "Open": "2022-11-11",
+    "Close": "",
+    "Distributor": "Universal Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 16683555
+      },
+      {
+        "type": "int_gross",
+        "dollars": 24507136
+      },
+      {
+        "type": "world_gross",
+        "dollars": 42318518
+      }
+    ]
+  },
+  {
+    "Rank": 58,
+    "Release": "The Whale",
+    "max_th": 1721,
+    "Opening": 332152,
+    "perc_tot_gr": 2.1,
+    "open_th": 6,
+    "Open": "2022-12-09",
+    "Close": "",
+    "Distributor": "A24",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 15763761
+      },
+      {
+        "type": "int_gross",
+        "dollars": 11507000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 28190555
+      }
+    ]
+  },
+  {
+    "Rank": 59,
+    "Release": "Babylon",
+    "max_th": 3351,
+    "Opening": 3603368,
+    "perc_tot_gr": 23.5,
+    "open_th": 3343,
+    "Open": "2022-12-23",
+    "Close": "2022-01-27",
+    "Distributor": "Paramount Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 15351455
+      },
+      {
+        "type": "int_gross",
+        "dollars": 534803
+      },
+      {
+        "type": "world_gross",
+        "dollars": 16298564
+      }
+    ]
+  },
+  {
+    "Rank": 60,
+    "Release": "Amsterdam",
+    "max_th": 3005,
+    "Opening": 6444896,
+    "perc_tot_gr": 43.1,
+    "open_th": 3005,
+    "Open": "2022-10-07",
+    "Close": "",
+    "Distributor": "Walt Disney Studios Motion Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 14947969
+      },
+      {
+        "type": "int_gross",
+        "dollars": 35100000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 50451455
+      }
+    ]
+  },
+  {
+    "Rank": 61,
+    "Release": "The Chosen Season 3: Episode 1 & 2",
+    "max_th": 2021,
+    "Opening": 8772746,
+    "perc_tot_gr": 60,
+    "open_th": 2021,
+    "Open": "2022-11-18",
+    "Close": "",
+    "Distributor": "Fathom Events",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 14612089
+      },
+      {
+        "type": "int_gross",
+        "dollars": 16297841
+      },
+      {
+        "type": "world_gross",
+        "dollars": 31245810
+      }
+    ]
+  },
+  {
+    "Rank": 62,
+    "Release": "The 355",
+    "max_th": 3145,
+    "Opening": 4621765,
+    "perc_tot_gr": 31.7,
+    "open_th": 3145,
+    "Open": "2022-01-07",
+    "Close": "",
+    "Distributor": "Universal Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 14570455
+      },
+      {
+        "type": "int_gross",
+        "dollars": 67524
+      },
+      {
+        "type": "world_gross",
+        "dollars": 14679613
+      }
+    ]
+  },
+  {
+    "Rank": 63,
+    "Release": "RRR",
+    "max_th": 1200,
+    "Opening": 9500000,
+    "perc_tot_gr": 31.7,
+    "open_th": 1200,
+    "Open": "2022-03-25",
+    "Close": "",
+    "Distributor": "Sarigama Cinemas",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 14500000
+      },
+      {
+        "type": "int_gross",
+        "dollars": 13256995
+      },
+      {
+        "type": "world_gross",
+        "dollars": 27827450
+      }
+    ]
+  },
+  {
+    "Rank": 64,
+    "Release": "Glass Onion",
+    "max_th": 696,
+    "Opening": 9400000,
+    "perc_tot_gr": 31.7,
+    "open_th": 696,
+    "Open": "2022-11-23",
+    "Close": "",
+    "Distributor": "Netflix",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 13280000
+      },
+      {
+        "type": "int_gross",
+        "dollars": 142988696
+      },
+      {
+        "type": "world_gross",
+        "dollars": 157488696
+      }
+    ]
+  },
+  {
+    "Rank": 65,
+    "Release": "Easter Sunday",
+    "max_th": 3176,
+    "Opening": 5447130,
+    "perc_tot_gr": 41.9,
+    "open_th": 3175,
+    "Open": "2022-08-05",
+    "Close": "2022-09-23",
+    "Distributor": "Universal Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 13013690
+      },
+      {
+        "type": "int_gross",
+        "dollars": 13280000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 9400000
+      }
+    ]
+  },
+  {
+    "Rank": 66,
+    "Release": "One Piece Film: Red",
+    "max_th": 2367,
+    "Opening": 9340245,
+    "perc_tot_gr": 73.1,
+    "open_th": 2367,
+    "Open": "2022-11-04",
+    "Close": "",
+    "Distributor": "Crunchyroll",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 12775324
+      },
+      {
+        "type": "int_gross",
+        "dollars": 60565
+      },
+      {
+        "type": "world_gross",
+        "dollars": 13074255
+      }
+    ]
+  },
+  {
+    "Rank": 67,
+    "Release": "X",
+    "max_th": 2920,
+    "Opening": 4275126,
+    "perc_tot_gr": 36.3,
+    "open_th": 2865,
+    "Open": "2022-03-18",
+    "Close": "",
+    "Distributor": "A24",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 11765309
+      },
+      {
+        "type": "int_gross",
+        "dollars": 174394746
+      },
+      {
+        "type": "world_gross",
+        "dollars": 187170070
+      }
+    ]
+  },
+  {
+    "Rank": 68,
+    "Release": "Bros",
+    "max_th": 3356,
+    "Opening": 4854125,
+    "perc_tot_gr": 41.7,
+    "open_th": 3350,
+    "Open": "2022-09-30",
+    "Close": "",
+    "Distributor": "Universal Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 11628165
+      },
+      {
+        "type": "int_gross",
+        "dollars": 3014549
+      },
+      {
+        "type": "world_gross",
+        "dollars": 14779858
+      }
+    ]
+  },
+  {
+    "Rank": 69,
+    "Release": "Bodies Bodies Bodies",
+    "max_th": 2541,
+    "Opening": 226653,
+    "perc_tot_gr": 2,
+    "open_th": 6,
+    "Open": "2022-08-05",
+    "Close": "",
+    "Distributor": "A24",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 11446602
+      },
+      {
+        "type": "int_gross",
+        "dollars": 3146627
+      },
+      {
+        "type": "world_gross",
+        "dollars": 14774792
+      }
+    ]
+  },
+  {
+    "Rank": 70,
+    "Release": "Terrifier 2",
+    "max_th": 1550,
+    "Opening": 805000,
+    "perc_tot_gr": 7.6,
+    "open_th": 770,
+    "Open": "2022-10-06",
+    "Close": "2022-12-02",
+    "Distributor": "Cinedigm Entertainment Group",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 10640105
+      },
+      {
+        "type": "int_gross",
+        "dollars": 2483068
+      },
+      {
+        "type": "world_gross",
+        "dollars": 13929670
+      }
+    ]
+  },
+  {
+    "Rank": 71,
+    "Release": "Mrs. Harris Goes to Paris",
+    "max_th": 1001,
+    "Opening": 1953070,
+    "perc_tot_gr": 18.7,
+    "open_th": 980,
+    "Open": "2022-07-15",
+    "Close": "2022-09-23",
+    "Distributor": "Focus Features",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 10433915
+      },
+      {
+        "type": "int_gross",
+        "dollars": 4072239
+      },
+      {
+        "type": "world_gross",
+        "dollars": 14712344
+      }
+    ]
+  },
+  {
+    "Rank": 72,
+    "Release": "The Banshees of Inisherin",
+    "max_th": 1205,
+    "Opening": 184454,
+    "perc_tot_gr": 1.8,
+    "open_th": 4,
+    "Open": "2022-10-21",
+    "Close": "",
+    "Distributor": "Searchlight Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 10157055
+      },
+      {
+        "type": "int_gross",
+        "dollars": 19594585
+      },
+      {
+        "type": "world_gross",
+        "dollars": 30028500
+      }
+    ]
+  },
+  {
+    "Rank": 73,
+    "Release": "Firestarter",
+    "max_th": 3413,
+    "Opening": 3827715,
+    "perc_tot_gr": 39.3,
+    "open_th": 3412,
+    "Open": "2022-05-13",
+    "Close": "2022-06-24",
+    "Distributor": "Universal Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 9739250
+      },
+      {
+        "type": "int_gross",
+        "dollars": 27299387
+      },
+      {
+        "type": "world_gross",
+        "dollars": 37456442
+      }
+    ]
+  },
+  {
+    "Rank": 74,
+    "Release": "Blacklight",
+    "max_th": 2772,
+    "Opening": 3502475,
+    "perc_tot_gr": 36.5,
+    "open_th": 2772,
+    "Open": "2022-02-11",
+    "Close": "",
+    "Distributor": "Briarcliff Entertainment",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 9591094
+      },
+      {
+        "type": "int_gross",
+        "dollars": 5300000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 15039250
+      }
+    ]
+  },
+  {
+    "Rank": 75,
+    "Release": "See How They Run",
+    "max_th": 2502,
+    "Opening": 3007657,
+    "perc_tot_gr": 31.4,
+    "open_th": 2404,
+    "Open": "2022-09-16",
+    "Close": "",
+    "Distributor": "Walt Disney Studios Motion Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 9586237
+      },
+      {
+        "type": "int_gross",
+        "dollars": 6311113
+      },
+      {
+        "type": "world_gross",
+        "dollars": 15902207
+      }
+    ]
+  },
+  {
+    "Rank": 76,
+    "Release": "Pearl",
+    "max_th": 2982,
+    "Opening": 3128427,
+    "perc_tot_gr": 33.2,
+    "open_th": 2935,
+    "Open": "2022-09-16",
+    "Close": "",
+    "Distributor": "A24",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 9423445
+      },
+      {
+        "type": "int_gross",
+        "dollars": 12380397
+      },
+      {
+        "type": "world_gross",
+        "dollars": 21966634
+      }
+    ]
+  },
+  {
+    "Rank": 77,
+    "Release": "Spider-Man: No Way Home2022 Re-release",
+    "max_th": 3935,
+    "Opening": 5403230,
+    "perc_tot_gr": 58,
+    "open_th": 3935,
+    "Open": "2022-09-02",
+    "Close": "",
+    "Distributor": "Sony Pictures Entertainment (SPE)",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 9321593
+      },
+      {
+        "type": "int_gross",
+        "dollars": 9423445
+      },
+      {
+        "type": "world_gross",
+        "dollars": 3128427
+      }
+    ]
+  },
+  {
+    "Rank": 78,
+    "Release": "Redeeming Love",
+    "max_th": 1963,
+    "Opening": 3530180,
+    "perc_tot_gr": 38.3,
+    "open_th": 1903,
+    "Open": "2022-01-21",
+    "Close": "",
+    "Distributor": "Universal Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 9214020
+      },
+      {
+        "type": "int_gross",
+        "dollars": 291925
+      },
+      {
+        "type": "world_gross",
+        "dollars": 9613518
+      }
+    ]
+  },
+  {
+    "Rank": 79,
+    "Release": "Till",
+    "max_th": 2136,
+    "Opening": 242269,
+    "perc_tot_gr": 2.7,
+    "open_th": 16,
+    "Open": "2022-10-14",
+    "Close": "2022-12-16",
+    "Distributor": "United Artists Releasing",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 9000202
+      },
+      {
+        "type": "int_gross",
+        "dollars": 250178
+      },
+      {
+        "type": "world_gross",
+        "dollars": 9464198
+      }
+    ]
+  },
+  {
+    "Rank": 80,
+    "Release": "Three Thousand Years of Longing",
+    "max_th": 2436,
+    "Opening": 2919717,
+    "perc_tot_gr": 35.2,
+    "open_th": 2436,
+    "Open": "2022-08-26",
+    "Close": "2022-10-06",
+    "Distributor": "United Artists Releasing",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 8286741
+      },
+      {
+        "type": "int_gross",
+        "dollars": 1042939
+      },
+      {
+        "type": "world_gross",
+        "dollars": 10043141
+      }
+    ]
+  },
+  {
+    "Rank": 81,
+    "Release": "Brahmastra Part One: Shiva",
+    "max_th": 810,
+    "Opening": 4543659,
+    "perc_tot_gr": 58,
+    "open_th": 810,
+    "Open": "2022-09-09",
+    "Close": "2022-10-14",
+    "Distributor": "Walt Disney Studios Motion Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 7839108
+      },
+      {
+        "type": "int_gross",
+        "dollars": 11077956
+      },
+      {
+        "type": "world_gross",
+        "dollars": 19364697
+      }
+    ]
+  },
+  {
+    "Rank": 82,
+    "Release": "Bones and All",
+    "max_th": 2727,
+    "Opening": 2258562,
+    "perc_tot_gr": 28.8,
+    "open_th": 2727,
+    "Open": "2022-11-23",
+    "Close": "",
+    "Distributor": "United Artists Releasing",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 7834907
+      },
+      {
+        "type": "int_gross",
+        "dollars": 42325677
+      },
+      {
+        "type": "world_gross",
+        "dollars": 50164785
+      }
+    ]
+  },
+  {
+    "Rank": 83,
+    "Release": "Men",
+    "max_th": 2212,
+    "Opening": 3293030,
+    "perc_tot_gr": 28.8,
+    "open_th": 2212,
+    "Open": "2022-05-20",
+    "Close": "",
+    "Distributor": "A24",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 7587853
+      },
+      {
+        "type": "int_gross",
+        "dollars": 6700000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 14534907
+      }
+    ]
+  },
+  {
+    "Rank": 84,
+    "Release": "Memory",
+    "max_th": 2555,
+    "Opening": 3113298,
+    "perc_tot_gr": 42.5,
+    "open_th": 2555,
+    "Open": "2022-04-29",
+    "Close": "",
+    "Distributor": "Open Road Films (II)",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 7329043
+      },
+      {
+        "type": "int_gross",
+        "dollars": 3564218
+      },
+      {
+        "type": "world_gross",
+        "dollars": 11152071
+      }
+    ]
+  },
+  {
+    "Rank": 85,
+    "Release": "Fall",
+    "max_th": 1548,
+    "Opening": 2512145,
+    "perc_tot_gr": 34.7,
+    "open_th": 1548,
+    "Open": "2022-08-12",
+    "Close": "",
+    "Distributor": "Lionsgate",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 7240521
+      },
+      {
+        "type": "int_gross",
+        "dollars": 6568212
+      },
+      {
+        "type": "world_gross",
+        "dollars": 13897255
+      }
+    ]
+  },
+  {
+    "Rank": 86,
+    "Release": "BTS Permission to Dance on Stage - Seoul: Live Viewing",
+    "max_th": 803,
+    "Opening": 6840000,
+    "perc_tot_gr": 34.7,
+    "open_th": 803,
+    "Open": "2022-03-12",
+    "Close": "",
+    "Distributor": "Trafalgar Releasing",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 6840000
+      },
+      {
+        "type": "int_gross",
+        "dollars": 10122740
+      },
+      {
+        "type": "world_gross",
+        "dollars": 17363261
+      }
+    ]
+  },
+  {
+    "Rank": 87,
+    "Release": "T\u00c3\u00a1r",
+    "max_th": 1090,
+    "Opening": 158620,
+    "perc_tot_gr": 2.5,
+    "open_th": 4,
+    "Open": "2022-10-07",
+    "Close": "",
+    "Distributor": "Focus Features",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 6351010
+      },
+      {
+        "type": "int_gross",
+        "dollars": 25760000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 32600000
+      }
+    ]
+  },
+  {
+    "Rank": 88,
+    "Release": "Marcel the Shell with Shoes On",
+    "max_th": 821,
+    "Opening": 159403,
+    "perc_tot_gr": 2.5,
+    "open_th": 6,
+    "Open": "2022-06-24",
+    "Close": "",
+    "Distributor": "A24",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 6333702
+      },
+      {
+        "type": "int_gross",
+        "dollars": 3797167
+      },
+      {
+        "type": "world_gross",
+        "dollars": 10148177
+      }
+    ]
+  },
+  {
+    "Rank": 89,
+    "Release": "She Said",
+    "max_th": 2023,
+    "Opening": 2217010,
+    "perc_tot_gr": 38.1,
+    "open_th": 2022,
+    "Open": "2022-11-18",
+    "Close": "",
+    "Distributor": "Universal Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 5825995
+      },
+      {
+        "type": "int_gross",
+        "dollars": 175890
+      },
+      {
+        "type": "world_gross",
+        "dollars": 6509592
+      }
+    ]
+  },
+  {
+    "Rank": 90,
+    "Release": "I Heard the Bells",
+    "max_th": 1204,
+    "Opening": 2016504,
+    "perc_tot_gr": 35.7,
+    "open_th": 1082,
+    "Open": "2022-12-01",
+    "Close": "",
+    "Distributor": "Fathom Events",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 5644104
+      },
+      {
+        "type": "int_gross",
+        "dollars": 7603176
+      },
+      {
+        "type": "world_gross",
+        "dollars": 13429171
+      }
+    ]
+  },
+  {
+    "Rank": 91,
+    "Release": "Orphan: First Kill",
+    "max_th": 557,
+    "Opening": 1739557,
+    "perc_tot_gr": 32.1,
+    "open_th": 498,
+    "Open": "2022-08-19",
+    "Close": "2022-09-23",
+    "Distributor": "Paramount Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 5413227
+      },
+      {
+        "type": "int_gross",
+        "dollars": 35163
+      },
+      {
+        "type": "world_gross",
+        "dollars": 5679267
+      }
+    ]
+  },
+  {
+    "Rank": 92,
+    "Release": "Lifemark",
+    "max_th": 1531,
+    "Opening": 2189456,
+    "perc_tot_gr": 42.3,
+    "open_th": 1531,
+    "Open": "2022-09-09",
+    "Close": "",
+    "Distributor": "Fathom Events",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 5180537
+      },
+      {
+        "type": "int_gross",
+        "dollars": 31670516
+      },
+      {
+        "type": "world_gross",
+        "dollars": 37083743
+      }
+    ]
+  },
+  {
+    "Rank": 93,
+    "Release": "Jaws2022 Re-release",
+    "max_th": 1246,
+    "Opening": 2638285,
+    "perc_tot_gr": 51.7,
+    "open_th": 1246,
+    "Open": "2022-09-02",
+    "Close": "2022-09-23",
+    "Distributor": "Universal Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 5100765
+      },
+      {
+        "type": "int_gross",
+        "dollars": 391289
+      },
+      {
+        "type": "world_gross",
+        "dollars": 5571826
+      }
+    ]
+  },
+  {
+    "Rank": 94,
+    "Release": "Clerks III",
+    "max_th": 5,
+    "Opening": 674330,
+    "perc_tot_gr": 14.5,
+    "open_th": 1246,
+    "Open": "2022-09-16",
+    "Close": "",
+    "Distributor": "Fathom Events",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 4663106
+      },
+      {
+        "type": "int_gross",
+        "dollars": 532047
+      },
+      {
+        "type": "world_gross",
+        "dollars": 5632812
+      }
+    ]
+  },
+  {
+    "Rank": 95,
+    "Release": "The Cursed",
+    "max_th": 1695,
+    "Opening": 1776142,
+    "perc_tot_gr": 38.7,
+    "open_th": 1687,
+    "Open": "2022-02-18",
+    "Close": "",
+    "Distributor": "LD Entertainment",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 4588389
+      },
+      {
+        "type": "int_gross",
+        "dollars": 54491
+      },
+      {
+        "type": "world_gross",
+        "dollars": 4717597
+      }
+    ]
+  },
+  {
+    "Rank": 96,
+    "Release": "Triangle of Sadness",
+    "max_th": 610,
+    "Opening": 214602,
+    "perc_tot_gr": 4.9,
+    "open_th": 10,
+    "Open": "2022-10-07",
+    "Close": "",
+    "Distributor": "Neon",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 4345174
+      },
+      {
+        "type": "int_gross",
+        "dollars": 4588389
+      },
+      {
+        "type": "world_gross",
+        "dollars": 1776142
+      }
+    ]
+  },
+  {
+    "Rank": 97,
+    "Release": "Vengeance",
+    "max_th": 1003,
+    "Opening": 1755325,
+    "perc_tot_gr": 40.5,
+    "open_th": 998,
+    "Open": "2022-07-29",
+    "Close": "2022-09-01",
+    "Distributor": "Focus Features",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 4330720
+      },
+      {
+        "type": "int_gross",
+        "dollars": 18754222
+      },
+      {
+        "type": "world_gross",
+        "dollars": 23099396
+      }
+    ]
+  },
+  {
+    "Rank": 98,
+    "Release": "Ponniyin Selvan: Part I",
+    "max_th": 500,
+    "Opening": 4018000,
+    "perc_tot_gr": 40.5,
+    "open_th": 500,
+    "Open": "2022-09-30",
+    "Close": "",
+    "Distributor": "Sarigama Cinemas",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 4282000
+      },
+      {
+        "type": "int_gross",
+        "dollars": 39816
+      },
+      {
+        "type": "world_gross",
+        "dollars": 4370536
+      }
+    ]
+  },
+  {
+    "Rank": 99,
+    "Release": "Moonage Daydream",
+    "max_th": 733,
+    "Opening": 1230145,
+    "perc_tot_gr": 29.2,
+    "open_th": 170,
+    "Open": "2022-09-16",
+    "Close": "",
+    "Distributor": "Neon",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 4218925
+      },
+      {
+        "type": "int_gross",
+        "dollars": 17594105
+      },
+      {
+        "type": "world_gross",
+        "dollars": 21876105
+      }
+    ]
+  },
+  {
+    "Rank": 100,
+    "Release": "Belle",
+    "max_th": 1338,
+    "Opening": 1565658,
+    "perc_tot_gr": 39,
+    "open_th": 1338,
+    "Open": "2022-01-14",
+    "Close": "2022-02-03",
+    "Distributor": "GKIDS",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 4018313
+      },
+      {
+        "type": "int_gross",
+        "dollars": 8173901
+      },
+      {
+        "type": "world_gross",
+        "dollars": 12392826
+      }
+    ]
+  },
+  {
+    "Rank": 101,
+    "Release": "Family Camp",
+    "max_th": 1057,
+    "Opening": 1399117,
+    "perc_tot_gr": 35.2,
+    "open_th": 854,
+    "Open": "2022-05-13",
+    "Close": "",
+    "Distributor": "Roadside Attractions",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 3973263
+      },
+      {
+        "type": "int_gross",
+        "dollars": 60648189
+      },
+      {
+        "type": "world_gross",
+        "dollars": 64666502
+      }
+    ]
+  },
+  {
+    "Rank": 102,
+    "Release": "Cyrano",
+    "max_th": 797,
+    "Opening": 1385995,
+    "perc_tot_gr": 35.8,
+    "open_th": 797,
+    "Open": "2022-02-25",
+    "Close": "",
+    "Distributor": "United Artists Releasing",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 3873124
+      },
+      {
+        "type": "int_gross",
+        "dollars": 3973263
+      },
+      {
+        "type": "world_gross",
+        "dollars": 1399117
+      }
+    ]
+  },
+  {
+    "Rank": 103,
+    "Release": "Women Talking",
+    "max_th": 707,
+    "Opening": 40530,
+    "perc_tot_gr": 1.2,
+    "open_th": 8,
+    "Open": "2022-12-23",
+    "Close": "",
+    "Distributor": "United Artists Releasing",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 3428556
+      },
+      {
+        "type": "int_gross",
+        "dollars": 2523606
+      },
+      {
+        "type": "world_gross",
+        "dollars": 6396730
+      }
+    ]
+  },
+  {
+    "Rank": 104,
+    "Release": "Laal Singh Chaddha",
+    "max_th": 517,
+    "Opening": 1486924,
+    "perc_tot_gr": 43.7,
+    "open_th": 516,
+    "Open": "2022-08-11",
+    "Close": "2022-09-01",
+    "Distributor": "Paramount Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 3401324
+      },
+      {
+        "type": "int_gross",
+        "dollars": 3428556
+      },
+      {
+        "type": "world_gross",
+        "dollars": 40530
+      }
+    ]
+  },
+  {
+    "Rank": 105,
+    "Release": "The Outfit",
+    "max_th": 1328,
+    "Opening": 1499730,
+    "perc_tot_gr": 44.8,
+    "open_th": 1324,
+    "Open": "2022-03-18",
+    "Close": "",
+    "Distributor": "Focus Features",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 3344040
+      },
+      {
+        "type": "int_gross",
+        "dollars": 8692212
+      },
+      {
+        "type": "world_gross",
+        "dollars": 12093536
+      }
+    ]
+  },
+  {
+    "Rank": 106,
+    "Release": "The Worst Person in the World",
+    "max_th": 554,
+    "Opening": 138424,
+    "perc_tot_gr": 4.6,
+    "open_th": 4,
+    "Open": "2022-02-04",
+    "Close": "",
+    "Distributor": "Neon",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 3034775
+      },
+      {
+        "type": "int_gross",
+        "dollars": 688273
+      },
+      {
+        "type": "world_gross",
+        "dollars": 4032313
+      }
+    ]
+  },
+  {
+    "Rank": 107,
+    "Release": "K.G.F: Chapter 2",
+    "max_th": 554,
+    "Opening": 2874000,
+    "perc_tot_gr": 4.6,
+    "open_th": 4,
+    "Open": "2022-04-15",
+    "Close": "",
+    "Distributor": "Viva Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 2874000
+      },
+      {
+        "type": "int_gross",
+        "dollars": 9632563
+      },
+      {
+        "type": "world_gross",
+        "dollars": 12667338
+      }
+    ]
+  },
+  {
+    "Rank": 108,
+    "Release": "Breaking",
+    "max_th": 909,
+    "Opening": 985921,
+    "perc_tot_gr": 35.1,
+    "open_th": 902,
+    "Open": "2022-08-26",
+    "Close": "2022-10-07",
+    "Distributor": "Bleecker Street Media",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 2806359
+      },
+      {
+        "type": "int_gross",
+        "dollars": 86249940
+      },
+      {
+        "type": "world_gross",
+        "dollars": 89123940
+      }
+    ]
+  },
+  {
+    "Rank": 109,
+    "Release": "Honk for Jesus. Save Your Soul.",
+    "max_th": 1882,
+    "Opening": 1422615,
+    "perc_tot_gr": 55.5,
+    "open_th": 1880,
+    "Open": "2022-09-02",
+    "Close": "",
+    "Distributor": "Focus Features",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 2561270
+      },
+      {
+        "type": "int_gross",
+        "dollars": 2806359
+      },
+      {
+        "type": "world_gross",
+        "dollars": 985921
+      }
+    ]
+  },
+  {
+    "Rank": 110,
+    "Release": "Mack & Rita",
+    "max_th": 1930,
+    "Opening": 1038291,
+    "perc_tot_gr": 40.9,
+    "open_th": 1930,
+    "Open": "2022-08-12",
+    "Close": "",
+    "Distributor": "Gravitas Premiere",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 2540965
+      },
+      {
+        "type": "int_gross",
+        "dollars": 2561270
+      },
+      {
+        "type": "world_gross",
+        "dollars": 1422615
+      }
+    ]
+  },
+  {
+    "Rank": 111,
+    "Release": "Studio 666",
+    "max_th": 2306,
+    "Opening": 1540543,
+    "perc_tot_gr": 61.3,
+    "open_th": 2306,
+    "Open": "2022-02-25",
+    "Close": "",
+    "Distributor": "Open Road Films (II)",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 2513963
+      },
+      {
+        "type": "int_gross",
+        "dollars": 11105
+      },
+      {
+        "type": "world_gross",
+        "dollars": 2552070
+      }
+    ]
+  },
+  {
+    "Rank": 112,
+    "Release": "Crimes of the Future",
+    "max_th": 773,
+    "Opening": 1117962,
+    "perc_tot_gr": 45.6,
+    "open_th": 773,
+    "Open": "2022-06-03",
+    "Close": "",
+    "Distributor": "Neon",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 2452882
+      },
+      {
+        "type": "int_gross",
+        "dollars": 504552
+      },
+      {
+        "type": "world_gross",
+        "dollars": 3018515
+      }
+    ]
+  },
+  {
+    "Rank": 113,
+    "Release": "Gigi & Nate",
+    "max_th": 1220,
+    "Opening": 990279,
+    "perc_tot_gr": 43.4,
+    "open_th": 1184,
+    "Open": "2022-09-02",
+    "Close": "2022-10-27",
+    "Distributor": "Roadside Attractions",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 2280814
+      },
+      {
+        "type": "int_gross",
+        "dollars": 2098683
+      },
+      {
+        "type": "world_gross",
+        "dollars": 4551565
+      }
+    ]
+  },
+  {
+    "Rank": 114,
+    "Release": "The Good House",
+    "max_th": 1061,
+    "Opening": 801568,
+    "perc_tot_gr": 36.1,
+    "open_th": 1061,
+    "Open": "2022-09-30",
+    "Close": "",
+    "Distributor": "Roadside Attractions",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 2219760
+      },
+      {
+        "type": "int_gross",
+        "dollars": 2280814
+      },
+      {
+        "type": "world_gross",
+        "dollars": 990279
+      }
+    ]
+  },
+  {
+    "Rank": 115,
+    "Release": "Decision to Leave",
+    "max_th": 169,
+    "Opening": 96200,
+    "perc_tot_gr": 4.4,
+    "open_th": 3,
+    "Open": "2022-10-14",
+    "Close": "",
+    "Distributor": "MUBI",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 2179864
+      },
+      {
+        "type": "int_gross",
+        "dollars": 60154
+      },
+      {
+        "type": "world_gross",
+        "dollars": 2279914
+      }
+    ]
+  },
+  {
+    "Rank": 116,
+    "Release": "Emily the Criminal",
+    "max_th": 483,
+    "Opening": 669161,
+    "perc_tot_gr": 31,
+    "open_th": 470,
+    "Open": "2022-08-12",
+    "Close": "",
+    "Distributor": "Roadside Attractions",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 2156296
+      },
+      {
+        "type": "int_gross",
+        "dollars": 20640265
+      },
+      {
+        "type": "world_gross",
+        "dollars": 22820129
+      }
+    ]
+  },
+  {
+    "Rank": 117,
+    "Release": "Umma",
+    "max_th": 805,
+    "Opening": 915290,
+    "perc_tot_gr": 43.2,
+    "open_th": 805,
+    "Open": "2022-03-18",
+    "Close": "2022-04-21",
+    "Distributor": "Stage 6 Films",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 2121025
+      },
+      {
+        "type": "int_gross",
+        "dollars": 2156296
+      },
+      {
+        "type": "world_gross",
+        "dollars": 669161
+      }
+    ]
+  },
+  {
+    "Rank": 118,
+    "Release": "The Wolf and the Lion",
+    "max_th": 1005,
+    "Opening": 641845,
+    "perc_tot_gr": 31,
+    "open_th": 1005,
+    "Open": "2022-02-04",
+    "Close": "",
+    "Distributor": "Blue Fox Entertainment",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 2072173
+      },
+      {
+        "type": "int_gross",
+        "dollars": 111568
+      },
+      {
+        "type": "world_gross",
+        "dollars": 2232593
+      }
+    ]
+  },
+  {
+    "Rank": 119,
+    "Release": "Jeepers Creepers: Reborn",
+    "max_th": 996,
+    "Opening": 380299,
+    "perc_tot_gr": 18.7,
+    "open_th": 461,
+    "Open": "2022-09-19",
+    "Close": "",
+    "Distributor": "Fathom Events",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 2033057
+      },
+      {
+        "type": "int_gross",
+        "dollars": 17438405
+      },
+      {
+        "type": "world_gross",
+        "dollars": 19510578
+      }
+    ]
+  },
+  {
+    "Rank": 120,
+    "Release": "E.T. the Extra-Terrestrial2022 Re-release",
+    "max_th": 793,
+    "Opening": 1072350,
+    "perc_tot_gr": 52.8,
+    "open_th": 389,
+    "Open": "2022-08-12",
+    "Close": "2022-09-01",
+    "Distributor": "Universal Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 2030725
+      },
+      {
+        "type": "int_gross",
+        "dollars": 3921881
+      },
+      {
+        "type": "world_gross",
+        "dollars": 5954938
+      }
+    ]
+  },
+  {
+    "Rank": 121,
+    "Release": "Watcher",
+    "max_th": 764,
+    "Opening": 826775,
+    "perc_tot_gr": 42.2,
+    "open_th": 764,
+    "Open": "2022-06-03",
+    "Close": "",
+    "Distributor": "IFC Films",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1961207
+      },
+      {
+        "type": "int_gross",
+        "dollars": 600000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 2630725
+      }
+    ]
+  },
+  {
+    "Rank": 122,
+    "Release": "Mr. Malcolm's List",
+    "max_th": 1384,
+    "Opening": 810742,
+    "perc_tot_gr": 43,
+    "open_th": 1384,
+    "Open": "2022-07-01",
+    "Close": "",
+    "Distributor": "Bleecker Street Media",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1885718
+      },
+      {
+        "type": "int_gross",
+        "dollars": 1027844
+      },
+      {
+        "type": "world_gross",
+        "dollars": 2989051
+      }
+    ]
+  },
+  {
+    "Rank": 123,
+    "Release": "Armageddon Time",
+    "max_th": 1006,
+    "Opening": 70275,
+    "perc_tot_gr": 3.8,
+    "open_th": 6,
+    "Open": "2022-10-28",
+    "Close": "",
+    "Distributor": "Focus Features",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1860050
+      },
+      {
+        "type": "int_gross",
+        "dollars": 138789
+      },
+      {
+        "type": "world_gross",
+        "dollars": 2024507
+      }
+    ]
+  },
+  {
+    "Rank": 124,
+    "Release": "Radhe Shyam",
+    "max_th": 800,
+    "Opening": 1860000,
+    "perc_tot_gr": 3.8,
+    "open_th": 800,
+    "Open": "2022-03-11",
+    "Close": "",
+    "Distributor": "-",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1860000
+      },
+      {
+        "type": "int_gross",
+        "dollars": 4147210
+      },
+      {
+        "type": "world_gross",
+        "dollars": 6007260
+      }
+    ]
+  },
+  {
+    "Rank": 125,
+    "Release": "2022 Oscar Nominated Short Films: Live Action/2022 Oscar Nominated Short Films: Animation/2022 Oscar Nominated Short Films: Documentary2022 Oscar Nominated Short Films",
+    "max_th": 355,
+    "Opening": 434107,
+    "perc_tot_gr": 24.1,
+    "open_th": 355,
+    "Open": "2022-02-25",
+    "Close": "",
+    "Distributor": "ShortsTV",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1801646
+      },
+      {
+        "type": "int_gross",
+        "dollars": 14094804
+      },
+      {
+        "type": "world_gross",
+        "dollars": 15954804
+      }
+    ]
+  },
+  {
+    "Rank": 126,
+    "Release": "Vikram",
+    "max_th": 465,
+    "Opening": 1770000,
+    "perc_tot_gr": 24.1,
+    "open_th": 465,
+    "Open": "2022-06-03",
+    "Close": "",
+    "Distributor": "Prime Media Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1770000
+      },
+      {
+        "type": "int_gross",
+        "dollars": 1801646
+      },
+      {
+        "type": "world_gross",
+        "dollars": 434107
+      }
+    ]
+  },
+  {
+    "Rank": 127,
+    "Release": "The King's Daughter",
+    "max_th": 2170,
+    "Opening": 723802,
+    "perc_tot_gr": 41.1,
+    "open_th": 2170,
+    "Open": "2022-01-21",
+    "Close": "",
+    "Distributor": "Gravitas Ventures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1758963
+      },
+      {
+        "type": "int_gross",
+        "dollars": 28067637
+      },
+      {
+        "type": "world_gross",
+        "dollars": 29837637
+      }
+    ]
+  },
+  {
+    "Rank": 128,
+    "Release": "Living",
+    "max_th": 644,
+    "Opening": 22784,
+    "perc_tot_gr": 1.4,
+    "open_th": 3,
+    "Open": "2022-12-23",
+    "Close": "",
+    "Distributor": "Sony Pictures Entertainment (SPE)",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1623267
+      },
+      {
+        "type": "int_gross",
+        "dollars": 472484
+      },
+      {
+        "type": "world_gross",
+        "dollars": 2231447
+      }
+    ]
+  },
+  {
+    "Rank": 129,
+    "Release": "Infinite Storm",
+    "max_th": 1525,
+    "Opening": 758919,
+    "perc_tot_gr": 47.4,
+    "open_th": 1525,
+    "Open": "2022-03-25",
+    "Close": "",
+    "Distributor": "Bleecker Street Media",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1600543
+      },
+      {
+        "type": "int_gross",
+        "dollars": 7184934
+      },
+      {
+        "type": "world_gross",
+        "dollars": 8808201
+      }
+    ]
+  },
+  {
+    "Rank": 130,
+    "Release": "Vikram Vedha",
+    "max_th": 558,
+    "Opening": 986592,
+    "perc_tot_gr": 62.1,
+    "open_th": 558,
+    "Open": "2022-09-30",
+    "Close": "",
+    "Distributor": "Reliance Entertainment",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1589362
+      },
+      {
+        "type": "int_gross",
+        "dollars": 106524
+      },
+      {
+        "type": "world_gross",
+        "dollars": 1707067
+      }
+    ]
+  },
+  {
+    "Rank": 131,
+    "Release": "The Duke",
+    "max_th": 353,
+    "Opening": 25776,
+    "perc_tot_gr": 1.7,
+    "open_th": 4,
+    "Open": "2022-04-22",
+    "Close": "",
+    "Distributor": "Sony Pictures Classics",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1526970
+      },
+      {
+        "type": "int_gross",
+        "dollars": 6644804
+      },
+      {
+        "type": "world_gross",
+        "dollars": 8234166
+      }
+    ]
+  },
+  {
+    "Rank": 132,
+    "Release": "Running the Bases",
+    "max_th": 1080,
+    "Opening": 538749,
+    "perc_tot_gr": 35.6,
+    "open_th": 1080,
+    "Open": "2022-09-16",
+    "Close": "2022-11-24",
+    "Distributor": "UP2U Films",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1511980
+      },
+      {
+        "type": "int_gross",
+        "dollars": 12700247
+      },
+      {
+        "type": "world_gross",
+        "dollars": 14227217
+      }
+    ]
+  },
+  {
+    "Rank": 133,
+    "Release": "\u00c2\u00bfY c\u00c3\u00b3mo es \u00c3\u00a9l?",
+    "max_th": 325,
+    "Opening": 624377,
+    "perc_tot_gr": 41.6,
+    "open_th": 325,
+    "Open": "2022-04-22",
+    "Close": "2022-06-17",
+    "Distributor": "Lionsgate",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1500636
+      },
+      {
+        "type": "int_gross",
+        "dollars": 1511980
+      },
+      {
+        "type": "world_gross",
+        "dollars": 538749
+      }
+    ]
+  },
+  {
+    "Rank": 134,
+    "Release": "The Kashmir Files",
+    "max_th": 230,
+    "Opening": 1485000,
+    "perc_tot_gr": 41.6,
+    "open_th": 230,
+    "Open": "2022-03-18",
+    "Close": "",
+    "Distributor": "Zee Studios",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1485000
+      },
+      {
+        "type": "int_gross",
+        "dollars": 3125233
+      },
+      {
+        "type": "world_gross",
+        "dollars": 4625869
+      }
+    ]
+  },
+  {
+    "Rank": 135,
+    "Release": "2000 Mules",
+    "max_th": 415,
+    "Opening": 751755,
+    "perc_tot_gr": 51.3,
+    "open_th": 415,
+    "Open": "2022-05-20",
+    "Close": "",
+    "Distributor": "D'Souza Media",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1465513
+      },
+      {
+        "type": "int_gross",
+        "dollars": 23336898
+      },
+      {
+        "type": "world_gross",
+        "dollars": 24821898
+      }
+    ]
+  },
+  {
+    "Rank": 136,
+    "Release": "It's a Wonderful Life75th Anniversary",
+    "max_th": 960,
+    "Opening": 734571,
+    "perc_tot_gr": 51,
+    "open_th": 960,
+    "Open": "2022-12-18",
+    "Close": "",
+    "Distributor": "Fathom Events",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1439643
+      },
+      {
+        "type": "int_gross",
+        "dollars": 1465513
+      },
+      {
+        "type": "world_gross",
+        "dollars": 751755
+      }
+    ]
+  },
+  {
+    "Rank": 137,
+    "Release": "The Godfather2022 Re-release",
+    "max_th": 596,
+    "Opening": 965375,
+    "perc_tot_gr": 68.2,
+    "open_th": 156,
+    "Open": "2022-02-25",
+    "Close": "",
+    "Distributor": "Paramount Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1414662
+      },
+      {
+        "type": "int_gross",
+        "dollars": 950140
+      },
+      {
+        "type": "world_gross",
+        "dollars": 2389783
+      }
+    ]
+  },
+  {
+    "Rank": 138,
+    "Release": "Spoiler Alert",
+    "max_th": 783,
+    "Opening": 82983,
+    "perc_tot_gr": 6,
+    "open_th": 6,
+    "Open": "2022-12-02",
+    "Close": "",
+    "Distributor": "Focus Features",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1384003
+      },
+      {
+        "type": "int_gross",
+        "dollars": 2800000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 4214662
+      }
+    ]
+  },
+  {
+    "Rank": 139,
+    "Release": "Medieval",
+    "max_th": 1311,
+    "Opening": 821991,
+    "perc_tot_gr": 59.8,
+    "open_th": 1311,
+    "Open": "2022-09-09",
+    "Close": "",
+    "Distributor": "The Avenue Entertainment",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1374325
+      },
+      {
+        "type": "int_gross",
+        "dollars": 1384003
+      },
+      {
+        "type": "world_gross",
+        "dollars": 82983
+      }
+    ]
+  },
+  {
+    "Rank": 140,
+    "Release": "Rogue One: A Star Wars Story2022 Re-release",
+    "max_th": 255,
+    "Opening": 1060459,
+    "perc_tot_gr": 77.8,
+    "open_th": 255,
+    "Open": "2022-08-26",
+    "Close": "",
+    "Distributor": "Walt Disney Studios Motion Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1362667
+      },
+      {
+        "type": "int_gross",
+        "dollars": 3044374
+      },
+      {
+        "type": "world_gross",
+        "dollars": 4418699
+      }
+    ]
+  },
+  {
+    "Rank": 141,
+    "Release": "Howl's Moving Castle2022 Re-release",
+    "max_th": 868,
+    "Opening": 762961,
+    "perc_tot_gr": 62.9,
+    "open_th": 868,
+    "Open": "2022-09-23",
+    "Close": "",
+    "Distributor": "Fathom Events",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1212525
+      },
+      {
+        "type": "int_gross",
+        "dollars": 1261755
+      },
+      {
+        "type": "world_gross",
+        "dollars": 2624422
+      }
+    ]
+  },
+  {
+    "Rank": 142,
+    "Release": "F3: Fun and Frustration",
+    "max_th": 400,
+    "Opening": 1028000,
+    "perc_tot_gr": 62.9,
+    "open_th": 400,
+    "Open": "2022-05-27",
+    "Close": "",
+    "Distributor": "-",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1195000
+      },
+      {
+        "type": "int_gross",
+        "dollars": 109155
+      },
+      {
+        "type": "world_gross",
+        "dollars": 1321680
+      }
+    ]
+  },
+  {
+    "Rank": 143,
+    "Release": "Empire of Light",
+    "max_th": 436,
+    "Opening": 163405,
+    "perc_tot_gr": 13.9,
+    "open_th": 110,
+    "Open": "2022-12-09",
+    "Close": "2022-01-26",
+    "Distributor": "Searchlight Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1177577
+      },
+      {
+        "type": "int_gross",
+        "dollars": 8654193
+      },
+      {
+        "type": "world_gross",
+        "dollars": 9849193
+      }
+    ]
+  },
+  {
+    "Rank": 144,
+    "Release": "Aftersun",
+    "max_th": 97,
+    "Opening": 60752,
+    "perc_tot_gr": 5.4,
+    "open_th": 4,
+    "Open": "2022-10-21",
+    "Close": "",
+    "Distributor": "A24",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1117065
+      },
+      {
+        "type": "int_gross",
+        "dollars": 4252533
+      },
+      {
+        "type": "world_gross",
+        "dollars": 5430110
+      }
+    ]
+  },
+  {
+    "Rank": 145,
+    "Release": "After Ever Happy",
+    "max_th": 1144,
+    "Opening": 114993,
+    "perc_tot_gr": 10.7,
+    "open_th": 239,
+    "Open": "2022-09-07",
+    "Close": "",
+    "Distributor": "Fathom Events",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1072750
+      },
+      {
+        "type": "int_gross",
+        "dollars": 2298211
+      },
+      {
+        "type": "world_gross",
+        "dollars": 3763329
+      }
+    ]
+  },
+  {
+    "Rank": 146,
+    "Release": "Fire of Love",
+    "max_th": 191,
+    "Opening": 22416,
+    "perc_tot_gr": 2.1,
+    "open_th": 3,
+    "Open": "2022-07-06",
+    "Close": "",
+    "Distributor": "Neon",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1064080
+      },
+      {
+        "type": "int_gross",
+        "dollars": 18082312
+      },
+      {
+        "type": "world_gross",
+        "dollars": 19155062
+      }
+    ]
+  },
+  {
+    "Rank": 147,
+    "Release": "Hallelujah: Leonard Cohen, a Journey, a Song",
+    "max_th": 168,
+    "Opening": 24488,
+    "perc_tot_gr": 2.3,
+    "open_th": 3,
+    "Open": "2022-07-01",
+    "Close": "",
+    "Distributor": "Sony Pictures Entertainment (SPE)",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1062603
+      },
+      {
+        "type": "int_gross",
+        "dollars": 556353
+      },
+      {
+        "type": "world_gross",
+        "dollars": 1620433
+      }
+    ]
+  },
+  {
+    "Rank": 148,
+    "Release": "Broker",
+    "max_th": 271,
+    "Opening": 3265,
+    "perc_tot_gr": 0.3,
+    "open_th": 3,
+    "Open": "2022-12-23",
+    "Close": "",
+    "Distributor": "Neon",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1040895
+      },
+      {
+        "type": "int_gross",
+        "dollars": 1512380
+      },
+      {
+        "type": "world_gross",
+        "dollars": 2574983
+      }
+    ]
+  },
+  {
+    "Rank": 149,
+    "Release": "The Contractor",
+    "max_th": 489,
+    "Opening": 560678,
+    "perc_tot_gr": 54.2,
+    "open_th": 489,
+    "Open": "2022-04-01",
+    "Close": "",
+    "Distributor": "STX Entertainment",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1035265
+      },
+      {
+        "type": "int_gross",
+        "dollars": 17129541
+      },
+      {
+        "type": "world_gross",
+        "dollars": 18170436
+      }
+    ]
+  },
+  {
+    "Rank": 150,
+    "Release": "Jug Jugg Jeeyo",
+    "max_th": 318,
+    "Opening": 725000,
+    "perc_tot_gr": 54.2,
+    "open_th": 318,
+    "Open": "2022-06-24",
+    "Close": "",
+    "Distributor": "-",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1033000
+      },
+      {
+        "type": "int_gross",
+        "dollars": 1087023
+      },
+      {
+        "type": "world_gross",
+        "dollars": 2122288
+      }
+    ]
+  },
+  {
+    "Rank": 151,
+    "Release": "Coldplay: Music of the Spheres - Live Broadcast from Buenos Aires",
+    "max_th": 833,
+    "Opening": 1015000,
+    "perc_tot_gr": 54.2,
+    "open_th": 833,
+    "Open": "2022-10-28",
+    "Close": "",
+    "Distributor": "Trafalgar Releasing",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 1015000
+      },
+      {
+        "type": "int_gross",
+        "dollars": 10434726
+      },
+      {
+        "type": "world_gross",
+        "dollars": 11467726
+      }
+    ]
+  },
+  {
+    "Rank": 152,
+    "Release": "The Beatles: Get Back - The Rooftop Concert",
+    "max_th": 179,
+    "Opening": 391252,
+    "perc_tot_gr": 40.1,
+    "open_th": 67,
+    "Open": "2022-01-30",
+    "Close": "",
+    "Distributor": "IMAX",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 976712
+      },
+      {
+        "type": "int_gross",
+        "dollars": 1571693
+      },
+      {
+        "type": "world_gross",
+        "dollars": 2586693
+      }
+    ]
+  },
+  {
+    "Rank": 153,
+    "Release": "EO",
+    "max_th": 80,
+    "Opening": 24000,
+    "perc_tot_gr": 40.1,
+    "open_th": 2,
+    "Open": "2022-11-18",
+    "Close": "",
+    "Distributor": "Sideshow Releasing",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 890654
+      },
+      {
+        "type": "int_gross",
+        "dollars": 1230134
+      },
+      {
+        "type": "world_gross",
+        "dollars": 2206846
+      }
+    ]
+  },
+  {
+    "Rank": 154,
+    "Release": "Hansan: Rising Dragon",
+    "max_th": 32,
+    "Opening": 287554,
+    "perc_tot_gr": 33.2,
+    "open_th": 32,
+    "Open": "2022-07-29",
+    "Close": "",
+    "Distributor": "Well Go USA Entertainment",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 865888
+      },
+      {
+        "type": "int_gross",
+        "dollars": 1014632
+      },
+      {
+        "type": "world_gross",
+        "dollars": 1905286
+      }
+    ]
+  },
+  {
+    "Rank": 155,
+    "Release": "Johnny Cash: The Redemption of an American Icon",
+    "max_th": 1087,
+    "Opening": 287554,
+    "perc_tot_gr": 33.2,
+    "open_th": 32,
+    "Open": "2022-12-05",
+    "Close": "",
+    "Distributor": "Fathom Events",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 840580
+      },
+      {
+        "type": "int_gross",
+        "dollars": 345008
+      },
+      {
+        "type": "world_gross",
+        "dollars": 1210896
+      }
+    ]
+  },
+  {
+    "Rank": 156,
+    "Release": "The Tiger Rising",
+    "max_th": 872,
+    "Opening": 364216,
+    "perc_tot_gr": 43.6,
+    "open_th": 872,
+    "Open": "2022-01-21",
+    "Close": "",
+    "Distributor": "Variance Films",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 835162
+      },
+      {
+        "type": "int_gross",
+        "dollars": null
+      },
+      {
+        "type": "world_gross",
+        "dollars": 840580
+      }
+    ]
+  },
+  {
+    "Rank": 157,
+    "Release": "Acharya",
+    "max_th": 396,
+    "Opening": 832000,
+    "perc_tot_gr": 43.6,
+    "open_th": 396,
+    "Open": "2022-04-29",
+    "Close": "",
+    "Distributor": "Prime Media Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 832000
+      },
+      {
+        "type": "int_gross",
+        "dollars": 279996
+      },
+      {
+        "type": "world_gross",
+        "dollars": 1115158
+      }
+    ]
+  },
+  {
+    "Rank": 158,
+    "Release": "Petite Maman",
+    "max_th": 224,
+    "Opening": 45764,
+    "perc_tot_gr": 5.5,
+    "open_th": 4,
+    "Open": "2022-04-22",
+    "Close": "",
+    "Distributor": "Neon",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 829065
+      },
+      {
+        "type": "int_gross",
+        "dollars": 7216175
+      },
+      {
+        "type": "world_gross",
+        "dollars": 8048175
+      }
+    ]
+  },
+  {
+    "Rank": 159,
+    "Release": "The Roundup",
+    "max_th": 22,
+    "Opening": 102204,
+    "perc_tot_gr": 12.6,
+    "open_th": 15,
+    "Open": "2022-05-19",
+    "Close": "",
+    "Distributor": "Capelight Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 812859
+      },
+      {
+        "type": "int_gross",
+        "dollars": 1161270
+      },
+      {
+        "type": "world_gross",
+        "dollars": 1990335
+      }
+    ]
+  },
+  {
+    "Rank": 160,
+    "Release": "Evangelion: 3.0+1.01 Thrice Upon a Time",
+    "max_th": 745,
+    "Opening": 320631,
+    "perc_tot_gr": 39.5,
+    "open_th": 745,
+    "Open": "2022-12-06",
+    "Close": "",
+    "Distributor": "Fathom Events",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 810744
+      },
+      {
+        "type": "int_gross",
+        "dollars": 100341188
+      },
+      {
+        "type": "world_gross",
+        "dollars": 101154047
+      }
+    ]
+  },
+  {
+    "Rank": 161,
+    "Release": "Star Trek II: The Wrath of Khan2022 Re-release",
+    "max_th": 967,
+    "Opening": 454868,
+    "perc_tot_gr": 57.2,
+    "open_th": 967,
+    "Open": "2022-09-04",
+    "Close": "",
+    "Distributor": "Fathom Events",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 794943
+      },
+      {
+        "type": "int_gross",
+        "dollars": 92952268
+      },
+      {
+        "type": "world_gross",
+        "dollars": 93763012
+      }
+    ]
+  },
+  {
+    "Rank": 162,
+    "Release": "Met Opera: The Hours",
+    "max_th": 826,
+    "Opening": 791374,
+    "perc_tot_gr": 57.2,
+    "open_th": 826,
+    "Open": "2022-12-10",
+    "Close": "",
+    "Distributor": "Fathom Events",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 791374
+      },
+      {
+        "type": "int_gross",
+        "dollars": 110605
+      },
+      {
+        "type": "world_gross",
+        "dollars": 905548
+      }
+    ]
+  },
+  {
+    "Rank": 163,
+    "Release": "The Phantom of the Open",
+    "max_th": 501,
+    "Opening": 25577,
+    "perc_tot_gr": 3.4,
+    "open_th": 6,
+    "Open": "2022-06-03",
+    "Close": "",
+    "Distributor": "Sony Pictures Classics",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 748695
+      },
+      {
+        "type": "int_gross",
+        "dollars": 66528
+      },
+      {
+        "type": "world_gross",
+        "dollars": 857902
+      }
+    ]
+  },
+  {
+    "Rank": 164,
+    "Release": "Corsage",
+    "max_th": 317,
+    "Opening": 32285,
+    "perc_tot_gr": 4.6,
+    "open_th": 2,
+    "Open": "2022-12-23",
+    "Close": "",
+    "Distributor": "IFC Films",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 695609
+      },
+      {
+        "type": "int_gross",
+        "dollars": 3276304
+      },
+      {
+        "type": "world_gross",
+        "dollars": 4024999
+      }
+    ]
+  },
+  {
+    "Rank": 165,
+    "Release": "Saint Michael Meet the Angel",
+    "max_th": 811,
+    "Opening": 32285,
+    "perc_tot_gr": 4.6,
+    "open_th": 2,
+    "Open": "2022-09-29",
+    "Close": "",
+    "Distributor": "Fathom Events",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 643828
+      },
+      {
+        "type": "int_gross",
+        "dollars": 2177746
+      },
+      {
+        "type": "world_gross",
+        "dollars": 2873355
+      }
+    ]
+  },
+  {
+    "Rank": 166,
+    "Release": "Back to the Drive-in",
+    "max_th": 17,
+    "Opening": 32285,
+    "perc_tot_gr": 4.6,
+    "open_th": 2,
+    "Open": "2022-06-06",
+    "Close": "",
+    "Distributor": "-",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 626557
+      },
+      {
+        "type": "int_gross",
+        "dollars": null
+      },
+      {
+        "type": "world_gross",
+        "dollars": 643828
+      }
+    ]
+  },
+  {
+    "Rank": 167,
+    "Release": "Ante Sundharaniki",
+    "max_th": 350,
+    "Opening": 620000,
+    "perc_tot_gr": 4.6,
+    "open_th": 350,
+    "Open": "2022-06-10",
+    "Close": "",
+    "Distributor": "-",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 620000
+      },
+      {
+        "type": "int_gross",
+        "dollars": null
+      },
+      {
+        "type": "world_gross",
+        "dollars": 626557
+      }
+    ]
+  },
+  {
+    "Rank": 168,
+    "Release": "Unsilenced",
+    "max_th": 186,
+    "Opening": 47339,
+    "perc_tot_gr": 7.7,
+    "open_th": 34,
+    "Open": "2022-01-21",
+    "Close": "",
+    "Distributor": "Zhen Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 613621
+      },
+      {
+        "type": "int_gross",
+        "dollars": 585346
+      },
+      {
+        "type": "world_gross",
+        "dollars": 1198967
+      }
+    ]
+  },
+  {
+    "Rank": 169,
+    "Release": "The Mean One",
+    "max_th": 162,
+    "Opening": 218550,
+    "perc_tot_gr": 35.7,
+    "open_th": 162,
+    "Open": "2022-12-08",
+    "Close": "",
+    "Distributor": "Atlas Distribution Company",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 612260
+      },
+      {
+        "type": "int_gross",
+        "dollars": 612260
+      },
+      {
+        "type": "world_gross",
+        "dollars": 218550
+      }
+    ]
+  },
+  {
+    "Rank": 170,
+    "Release": "HIT: The 2nd Case",
+    "max_th": 280,
+    "Opening": 600000,
+    "perc_tot_gr": 35.7,
+    "open_th": 280,
+    "Open": "2022-12-02",
+    "Close": "",
+    "Distributor": "-",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 600000
+      },
+      {
+        "type": "int_gross",
+        "dollars": 142389
+      },
+      {
+        "type": "world_gross",
+        "dollars": 742389
+      }
+    ]
+  },
+  {
+    "Rank": 171,
+    "Release": "Official Competition",
+    "max_th": 173,
+    "Opening": 27150,
+    "perc_tot_gr": 4.6,
+    "open_th": 4,
+    "Open": "2022-06-17",
+    "Close": "",
+    "Distributor": "IFC Films",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 593790
+      },
+      {
+        "type": "int_gross",
+        "dollars": 4237346
+      },
+      {
+        "type": "world_gross",
+        "dollars": 4831136
+      }
+    ]
+  },
+  {
+    "Rank": 172,
+    "Release": "Gangubai Kathiawadi",
+    "max_th": 173,
+    "Opening": 592000,
+    "perc_tot_gr": 4.6,
+    "open_th": 4,
+    "Open": "2022-03-04",
+    "Close": "",
+    "Distributor": "Paramount Pictures International",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 592000
+      },
+      {
+        "type": "int_gross",
+        "dollars": 2679210
+      },
+      {
+        "type": "world_gross",
+        "dollars": 3271210
+      }
+    ]
+  },
+  {
+    "Rank": 173,
+    "Release": "Cuando sea joven",
+    "max_th": 315,
+    "Opening": 268465,
+    "perc_tot_gr": 45.7,
+    "open_th": 315,
+    "Open": "2022-09-23",
+    "Close": "",
+    "Distributor": "Pantelion Films",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 588028
+      },
+      {
+        "type": "int_gross",
+        "dollars": 1440049
+      },
+      {
+        "type": "world_gross",
+        "dollars": 2028077
+      }
+    ]
+  },
+  {
+    "Rank": 174,
+    "Release": "Confess, Fletch",
+    "max_th": 516,
+    "Opening": 266744,
+    "perc_tot_gr": 49.5,
+    "open_th": 516,
+    "Open": "2022-09-16",
+    "Close": "2022-09-29",
+    "Distributor": "Paramount Pictures",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 538842
+      },
+      {
+        "type": "int_gross",
+        "dollars": 117771
+      },
+      {
+        "type": "world_gross",
+        "dollars": 656613
+      }
+    ]
+  },
+  {
+    "Rank": 175,
+    "Release": "Man of God",
+    "max_th": 830,
+    "Opening": 266744,
+    "perc_tot_gr": 49.5,
+    "open_th": 516,
+    "Open": "2022-03-21",
+    "Close": "",
+    "Distributor": "Fathom Events",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 534627
+      },
+      {
+        "type": "int_gross",
+        "dollars": 648533
+      },
+      {
+        "type": "world_gross",
+        "dollars": 1183160
+      }
+    ]
+  },
+  {
+    "Rank": 176,
+    "Release": "Call Jane",
+    "max_th": 1068,
+    "Opening": 244469,
+    "perc_tot_gr": 47.7,
+    "open_th": 1068,
+    "Open": "2022-10-28",
+    "Close": "",
+    "Distributor": "Roadside Attractions",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 512770
+      },
+      {
+        "type": "int_gross",
+        "dollars": 149470
+      },
+      {
+        "type": "world_gross",
+        "dollars": 662240
+      }
+    ]
+  },
+  {
+    "Rank": 177,
+    "Release": "The Quintessential Quintuplets Movie",
+    "max_th": 910,
+    "Opening": 502000,
+    "perc_tot_gr": 47.7,
+    "open_th": 910,
+    "Open": "2022-12-02",
+    "Close": "",
+    "Distributor": "Crunchyroll",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 502000
+      },
+      {
+        "type": "int_gross",
+        "dollars": 16786993
+      },
+      {
+        "type": "world_gross",
+        "dollars": 17288993
+      }
+    ]
+  },
+  {
+    "Rank": 178,
+    "Release": "God's Country",
+    "max_th": 785,
+    "Opening": 279928,
+    "perc_tot_gr": 56.7,
+    "open_th": 785,
+    "Open": "2022-09-16",
+    "Close": "",
+    "Distributor": "IFC Films",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 493679
+      },
+      {
+        "type": "int_gross",
+        "dollars": 493679
+      },
+      {
+        "type": "world_gross",
+        "dollars": 279928
+      }
+    ]
+  },
+  {
+    "Rank": 179,
+    "Release": "Deep in the Heart: A Texas Wildlife Story",
+    "max_th": 69,
+    "Opening": 131360,
+    "perc_tot_gr": 27.4,
+    "open_th": 69,
+    "Open": "2022-06-03",
+    "Close": "",
+    "Distributor": "-",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 480240
+      },
+      {
+        "type": "int_gross",
+        "dollars": 480240
+      },
+      {
+        "type": "world_gross",
+        "dollars": 131360
+      }
+    ]
+  },
+  {
+    "Rank": 180,
+    "Release": "The Railway Children Return",
+    "max_th": 923,
+    "Opening": 245904,
+    "perc_tot_gr": 52.7,
+    "open_th": 923,
+    "Open": "2022-09-23",
+    "Close": "",
+    "Distributor": "Blue Fox Entertainment",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 466391
+      },
+      {
+        "type": "int_gross",
+        "dollars": 3832340
+      },
+      {
+        "type": "world_gross",
+        "dollars": 4298731
+      }
+    ]
+  },
+  {
+    "Rank": 181,
+    "Release": "Vivo",
+    "max_th": 705,
+    "Opening": 245904,
+    "perc_tot_gr": 52.7,
+    "open_th": 923,
+    "Open": "2022-04-25",
+    "Close": "",
+    "Distributor": "Fathom Events",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 454807
+      },
+      {
+        "type": "int_gross",
+        "dollars": 328907
+      },
+      {
+        "type": "world_gross",
+        "dollars": 783714
+      }
+    ]
+  },
+  {
+    "Rank": 182,
+    "Release": "Eiffel",
+    "max_th": 308,
+    "Opening": 42394,
+    "perc_tot_gr": 9.5,
+    "open_th": 41,
+    "Open": "2022-04-29",
+    "Close": "2022-08-18",
+    "Distributor": "Blue Fox Entertainment",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 444814
+      },
+      {
+        "type": "int_gross",
+        "dollars": 13204791
+      },
+      {
+        "type": "world_gross",
+        "dollars": 13649605
+      }
+    ]
+  },
+  {
+    "Rank": 183,
+    "Release": "Selena2022 Re-release",
+    "max_th": 427,
+    "Opening": 141916,
+    "perc_tot_gr": 31.9,
+    "open_th": 427,
+    "Open": "2022-04-07",
+    "Close": "2022-04-28",
+    "Distributor": "-",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 444681
+      },
+      {
+        "type": "int_gross",
+        "dollars": 444681
+      },
+      {
+        "type": "world_gross",
+        "dollars": 141916
+      }
+    ]
+  },
+  {
+    "Rank": 184,
+    "Release": "All the Beauty and the Bloodshed",
+    "max_th": 48,
+    "Opening": 28803,
+    "perc_tot_gr": 6.7,
+    "open_th": 3,
+    "Open": "2022-11-23",
+    "Close": "",
+    "Distributor": "-",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 431551
+      },
+      {
+        "type": "int_gross",
+        "dollars": 258016
+      },
+      {
+        "type": "world_gross",
+        "dollars": 689567
+      }
+    ]
+  },
+  {
+    "Rank": 185,
+    "Release": "Brian and Charles",
+    "max_th": 279,
+    "Opening": 216220,
+    "perc_tot_gr": 50.2,
+    "open_th": 279,
+    "Open": "2022-06-17",
+    "Close": "",
+    "Distributor": "Focus Features",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 430635
+      },
+      {
+        "type": "int_gross",
+        "dollars": 430215
+      },
+      {
+        "type": "world_gross",
+        "dollars": 860850
+      }
+    ]
+  },
+  {
+    "Rank": 186,
+    "Release": "Emergency Declaration",
+    "max_th": 42,
+    "Opening": 123140,
+    "perc_tot_gr": 29.9,
+    "open_th": 42,
+    "Open": "2022-08-12",
+    "Close": "",
+    "Distributor": "Well Go USA Entertainment",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 412196
+      },
+      {
+        "type": "int_gross",
+        "dollars": 20953067
+      },
+      {
+        "type": "world_gross",
+        "dollars": 21365263
+      }
+    ]
+  },
+  {
+    "Rank": 187,
+    "Release": "Superspreader",
+    "max_th": 235,
+    "Opening": 289500,
+    "perc_tot_gr": 72.5,
+    "open_th": 235,
+    "Open": "2022-09-30",
+    "Close": "2022-10-27",
+    "Distributor": "-",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 399370
+      },
+      {
+        "type": "int_gross",
+        "dollars": 399370
+      },
+      {
+        "type": "world_gross",
+        "dollars": 289500
+      }
+    ]
+  },
+  {
+    "Rank": 188,
+    "Release": "Tyson's Run",
+    "max_th": 428,
+    "Opening": 212800,
+    "perc_tot_gr": 54.4,
+    "open_th": 428,
+    "Open": "2022-03-11",
+    "Close": "",
+    "Distributor": "Collide Distribution",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 391426
+      },
+      {
+        "type": "int_gross",
+        "dollars": 4201
+      },
+      {
+        "type": "world_gross",
+        "dollars": 395627
+      }
+    ]
+  },
+  {
+    "Rank": 189,
+    "Release": "The Inspection",
+    "max_th": 144,
+    "Opening": 65942,
+    "perc_tot_gr": 17.1,
+    "open_th": 5,
+    "Open": "2022-11-18",
+    "Close": "",
+    "Distributor": "A24",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 385627
+      },
+      {
+        "type": "int_gross",
+        "dollars": 385627
+      },
+      {
+        "type": "world_gross",
+        "dollars": 65942
+      }
+    ]
+  },
+  {
+    "Rank": 190,
+    "Release": "Alice",
+    "max_th": 169,
+    "Opening": 173614,
+    "perc_tot_gr": 46.5,
+    "open_th": 169,
+    "Open": "2022-03-18",
+    "Close": "",
+    "Distributor": "Roadside Attractions",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 373043
+      },
+      {
+        "type": "int_gross",
+        "dollars": 373043
+      },
+      {
+        "type": "world_gross",
+        "dollars": 173614
+      }
+    ]
+  },
+  {
+    "Rank": 191,
+    "Release": "RRR2022 Re-release",
+    "max_th": 135,
+    "Opening": 5100,
+    "perc_tot_gr": 46.5,
+    "open_th": 3,
+    "Open": "2022-06-01",
+    "Close": "",
+    "Distributor": "Variance Films",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 369112
+      },
+      {
+        "type": "int_gross",
+        "dollars": 369112
+      },
+      {
+        "type": "world_gross",
+        "dollars": 5100
+      }
+    ]
+  },
+  {
+    "Rank": 192,
+    "Release": "The Good Boss",
+    "max_th": 174,
+    "Opening": 22363,
+    "perc_tot_gr": 6.2,
+    "open_th": 15,
+    "Open": "2022-08-26",
+    "Close": "",
+    "Distributor": "Cohen Media Group",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 363130
+      },
+      {
+        "type": "int_gross",
+        "dollars": 6972297
+      },
+      {
+        "type": "world_gross",
+        "dollars": 7335427
+      }
+    ]
+  },
+  {
+    "Rank": 193,
+    "Release": "Inu-oh",
+    "max_th": 350,
+    "Opening": 191004,
+    "perc_tot_gr": 54.3,
+    "open_th": 350,
+    "Open": "2022-08-12",
+    "Close": "2022-09-16",
+    "Distributor": "GKIDS",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 351558
+      },
+      {
+        "type": "int_gross",
+        "dollars": 82774
+      },
+      {
+        "type": "world_gross",
+        "dollars": 434332
+      }
+    ]
+  },
+  {
+    "Rank": 194,
+    "Release": "The Forgiven",
+    "max_th": 139,
+    "Opening": 135476,
+    "perc_tot_gr": 39.8,
+    "open_th": 125,
+    "Open": "2022-07-01",
+    "Close": "",
+    "Distributor": "Roadside Attractions",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 340222
+      },
+      {
+        "type": "int_gross",
+        "dollars": 1031334
+      },
+      {
+        "type": "world_gross",
+        "dollars": 1371556
+      }
+    ]
+  },
+  {
+    "Rank": 195,
+    "Release": "Fourth of July",
+    "max_th": 39,
+    "Opening": 9722,
+    "perc_tot_gr": 3,
+    "open_th": 2,
+    "Open": "2022-07-01",
+    "Close": "",
+    "Distributor": "Circus King Productions",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 325070
+      },
+      {
+        "type": "int_gross",
+        "dollars": 325070
+      },
+      {
+        "type": "world_gross",
+        "dollars": 9722
+      }
+    ]
+  },
+  {
+    "Rank": 196,
+    "Release": "Mad God",
+    "max_th": 37,
+    "Opening": 8416,
+    "perc_tot_gr": 2.6,
+    "open_th": 2,
+    "Open": "2022-06-10",
+    "Close": "",
+    "Distributor": "IFC Films",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 325042
+      },
+      {
+        "type": "int_gross",
+        "dollars": 325042
+      },
+      {
+        "type": "world_gross",
+        "dollars": 8416
+      }
+    ]
+  },
+  {
+    "Rank": 197,
+    "Release": "Clean",
+    "max_th": 254,
+    "Opening": 162098,
+    "perc_tot_gr": 50.8,
+    "open_th": 254,
+    "Open": "2022-01-28",
+    "Close": "",
+    "Distributor": "IFC Films",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 318877
+      },
+      {
+        "type": "int_gross",
+        "dollars": 318877
+      },
+      {
+        "type": "world_gross",
+        "dollars": 162098
+      }
+    ]
+  },
+  {
+    "Rank": 198,
+    "Release": "Waterman",
+    "max_th": 44,
+    "Opening": 65753,
+    "perc_tot_gr": 20.8,
+    "open_th": 13,
+    "Open": "2022-04-01",
+    "Close": "",
+    "Distributor": "Purdie Distribution",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 316848
+      },
+      {
+        "type": "int_gross",
+        "dollars": 19986
+      },
+      {
+        "type": "world_gross",
+        "dollars": 336834
+      }
+    ]
+  },
+  {
+    "Rank": 199,
+    "Release": "Meet Me in the Bathroom",
+    "max_th": 157,
+    "Opening": 86071,
+    "perc_tot_gr": 28,
+    "open_th": 4,
+    "Open": "2022-11-04",
+    "Close": "",
+    "Distributor": "Utopia",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 307000
+      },
+      {
+        "type": "int_gross",
+        "dollars": 307000
+      },
+      {
+        "type": "world_gross",
+        "dollars": 86071
+      }
+    ]
+  },
+  {
+    "Rank": 200,
+    "Release": "Holy Spider",
+    "max_th": 98,
+    "Opening": 16376,
+    "perc_tot_gr": 5.4,
+    "open_th": 1,
+    "Open": "2022-10-28",
+    "Close": "",
+    "Distributor": "Utopia",
+    "GrossValues": [
+      {
+        "type": "Opening_gross",
+        "dollars": 304287
+      },
+      {
+        "type": "int_gross",
+        "dollars": 1156233
+      },
+      {
+        "type": "world_gross",
+        "dollars": 1460520
+      }
+    ]
+  }
+]
